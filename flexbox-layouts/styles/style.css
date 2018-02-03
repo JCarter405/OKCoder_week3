@@ -42,7 +42,7 @@ p {
 }
 
 .side-nav ul li {
-	width: 100%;
+	/*width: 100%;*/
 	padding: 12px;
 	text-align: center;
 	border-bottom: 1px solid #555;
